@@ -1,7 +1,7 @@
 body {
     background: #daecf9e6;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: lightSkyBlue;
+    background-color: #87CEFA;
     background-repeat: no-repeat; /* Prevent background image from repeating */
     background-size: cover; /* Cover the entire background */
     display: flex;
